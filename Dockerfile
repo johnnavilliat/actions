@@ -1,4 +1,4 @@
-FROM ruby
+FROM ruby:4.0.1-trixie
 
 WORKDIR /app
 
